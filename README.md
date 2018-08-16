@@ -1,0 +1,2 @@
+# Dataguard
+Physical standby
